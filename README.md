@@ -23,5 +23,5 @@ Here are my attempts trying to fix the page that was not responding.
 4. Type in $\color{#00FF00}{git~status}$ to make sure you are in main. 
 5. You can also type in $\color{#00FF00}{git \ checkout \ main}$ to be at main on terminal.
 6. If you make changes on your files, you need to type in $\color{#00FF00}{git \ add~ \ -A}$ to add all the adjustment that was made to the files.
-7. Make sure you type in '$\color{#00FF00}{git \ commit \ -m \ "your comment here"}$  and add your commit comments inside bracket.
+7. Make sure you type in $\color{#00FF00}{git \ commit \ -m \ "your comment here"}$  and add your commit comments inside bracket.
 8. Type in $\color{#00FF00}{git~push}$ to push files up into your GitHub Repo.
