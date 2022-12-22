@@ -22,5 +22,5 @@ Here are my attempts trying to fix the page that was not responding.
 1. Always make sure to type in $\color{#00FF00}{ls}$ to check where you are working on and navigate back to repo folder that you made prior.
 2. Type in $\color{#00FF00}{git init}$ to make sure you are in sync.
 3. Type in $\color{#00FF00}{code~.}$ to initiate Visual Studio.
-4.Type in $\color{#00FF00}{git~status}$ to make sure you are in main or you can also type in $\color{#00FF00}{git~checkout~main}$
+4.Type in $\color{#00FF00}{git~status}$ to make sure you are in main. You can also type in $\color{#00FF00}{git~checkout~main}$
 5. 
