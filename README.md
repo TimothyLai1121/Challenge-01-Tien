@@ -8,5 +8,7 @@ $\color{#00FF00}{code~.}$
 Here are my attempts trying to fix the page that was not responding.
 
 ## GitHub Creating Repo & Push
-
 ![Step 01 GitHub](/README.md-images/1.png)
+1. type in $\color{#00FF00}{ls}$ to check where you are currently on with terminal.
+2. type in $\color{#00FF00}{cd}$ to navigate to Desktop
+3. I used SSH clone method by copying repo ssh links and type in $\color{#00FF00}{git clone}$ along with my links in terminal.
