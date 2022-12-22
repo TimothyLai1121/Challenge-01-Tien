@@ -5,6 +5,9 @@ My Challenge 01 - Still in progress
 ## Introduction
 Here are my attempts trying to fix the page that was not responding.
 
+## Notice
+I did make a mistake of not looking into Readme.md initially and assumed that we have to do a website that look like Challenge 01 and took most of my times. I do understand that it is my own fault but please give me a grace period where I can improve on it. Thank you guys!
+
 ## GitHub Creating Repo & Push
 ![Step 01 GitHub](/README.md-images/1.png)
 1. Type in $\color{#00FF00}{ls}$ to check where you are currently on with terminal.
